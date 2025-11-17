@@ -29,13 +29,14 @@ The player who fills most of the screen first, wins the game.
 ### **1. Main Page**
 - Two halves (Blue & Red)
 - “Start” button to begin the game
-![Main Screen](https://raw.githubusercontent.com/username/repo/main/images/main.png)
+- ![Main Screen](https://github.com/kamalsandeep1501/Tap_Game/blob/main/flutter%20game/Screenshot%202025-11-17%20195925.png)
+
 
 ### **2. Game Page**
 - Dynamic height animation for both players
 - Score counter
 - Tap to increase your section and try to win
-  flutter game/Screenshot 2025-11-17 195954.png
+  
 
 ### **3. Result Page**
 - Displays score and winner
