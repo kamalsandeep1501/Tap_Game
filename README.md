@@ -36,6 +36,7 @@ The player who fills most of the screen first, wins the game.
 - Dynamic height animation for both players
 - Score counter
 - Tap to increase your section and try to win
+- https://github.com/kamalsandeep1501/Tap_Game/blob/main/flutter%20game/Screenshot%202025-11-17%20195954.png
   
 
 ### **3. Result Page**
